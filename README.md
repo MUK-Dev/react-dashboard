@@ -1,6 +1,6 @@
 # Preview
 
-![alt text]()
+![alt text](https://github.com/MUK-Dev/react-dashboard/blob/master/src/data/demo.png)
 
 # Getting Started with Create React App
 
